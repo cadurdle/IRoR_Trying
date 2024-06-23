@@ -20,7 +20,27 @@
         <!-- Experiment Section -->
         <div id="experiment" class="section experiment-content" style="display:none;"></div>
     </div>
+      <script>
+    // Function to fetch and log JSON data
+    function fetchStudyData() {
+      return fetch('study.json')
+        .then(response => {
+          if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+          }
+          return response.json();
+        })
+        .then(data => {
+          console.log('Fetched study data:', data);
+        })
+        .catch(error => {
+          console.error('Error fetching study data:', error);
+        });
+    }
 
+    // Call the function to fetch and log JSON data
+    fetchStudyData();
+  </script>
     <!-- Progress Bar -->
     <div id="progress-bar-container" style="display:none;">
         <div id="progress-bar-wrapper">
