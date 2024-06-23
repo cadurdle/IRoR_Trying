@@ -1,15 +1,4 @@
 {
-  "version": "3",
-  "data": {
-    "uuid": "355ad277-6c48-43c6-87c7-ed05550b7570",
-    "title": "IRoR_Descriptions_FR_Details",
-    "description": "A study on image description tasks. Participants describe key details of images presented to them.",
-    "active": true,
-    "groupStudy": false,
-    "linearStudy": false,
-    "dirName": "IRoR_Descriptions_Congruent_s1-2",
-    "comments": "",
-    "jsonData": null,
     "endRedirectUrl": null,
     "componentList": [
       {
@@ -160,5 +149,4 @@
         "jsonData": null
       }
     ]
-  }
 }
