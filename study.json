@@ -1,475 +1,164 @@
 {
+  "version": "3",
+  "data": {
+    "uuid": "355ad277-6c48-43c6-87c7-ed05550b7570",
+    "title": "IRoR_Descriptions_FR_Details",
+    "description": "A study on image description tasks. Participants describe key details of images presented to them.",
+    "active": true,
+    "groupStudy": false,
+    "linearStudy": false,
+    "dirName": "IRoR_Descriptions_Congruent_s1-2",
+    "comments": "",
+    "jsonData": null,
+    "endRedirectUrl": null,
     "componentList": [
-        {
-            "uuid": "e47b1d10-8744-4e3d-99e1-1f6ed0889637",
-            "title": "Main Task",
-            "htmlFilePath": "index.html",
-            "reloadable": true,
-            "active": true,
-            "comments": "",
-            "jsonData": {
-                "imageSets": [
-                    {
-                        "condition": "congruent_resources",
-                        "setNumber": "studyset1",
-                        "images": [
-                            {
-                                "filename": "scoreboard.jpg",
-                                "word": "SCOREBOARD"
-                            },
-                            {
-                                "filename": "smoothie.jpg",
-                                "word": "SMOOTHIE"
-                            },
-                            {
-                                "filename": "shell2.jpg",
-                                "word": "SHELL"
-                            },
-                            {
-                                "filename": "baseball.jpg",
-                                "word": "BASEBALL"
-                            },
-                            {
-                                "filename": "sundae.jpg",
-                                "word": "SUNDAE"
-                            },
-                            {
-                                "filename": "pulley.jpg",
-                                "word": "PULLEY"
-                            },
-                            {
-                                "filename": "outfit.jpg",
-                                "word": "OUTFIT"
-                            },
-                            {
-                                "filename": "tarp.jpg",
-                                "word": "TARP"
-                            },
-                            {
-                                "filename": "car.jpg",
-                                "word": "CAR"
-                            },
-                            {
-                                "filename": "oilcan.jpg",
-                                "word": "OILCAN"
-                            },
-                            {
-                                "filename": "wall.jpg",
-                                "word": "WALL"
-                            },
-                            {
-                                "filename": "gift.jpg",
-                                "word": "GIFT"
-                            },
-                            {
-                                "filename": "ice_cream.jpg",
-                                "word": "ICE CREAM"
-                            },
-                            {
-                                "filename": "porcupine.jpg",
-                                "word": "PORCUPINE"
-                            },
-                            {
-                                "filename": "limousine.jpg",
-                                "word": "LIMOUSINE"
-                            },
-                            {
-                                "filename": "machine_gun.jpg",
-                                "word": "MACHINE GUN"
-                            },
-                            {
-                                "filename": "powder.jpg",
-                                "word": "POWDER"
-                            },
-                            {
-                                "filename": "checkbook.jpg",
-                                "word": "CHECKBOOK"
-                            },
-                            {
-                                "filename": "root.jpg",
-                                "word": "ROOT"
-                            },
-                            {
-                                "filename": "pill.jpg",
-                                "word": "PILL"
-                            },
-                            {
-                                "filename": "latte.jpg",
-                                "word": "LATTE"
-                            },
-                            {
-                                "filename": "cane.jpg",
-                                "word": "CANE"
-                            },
-                            {
-                                "filename": "plaster_cast.jpg",
-                                "word": "PLASTER CAST"
-                            },
-                            {
-                                "filename": "chipmunk.jpg",
-                                "word": "CHIPMUNK"
-                            },
-                            {
-                                "filename": "swab.jpg",
-                                "word": "SWAB"
-                            },
-                            {
-                                "filename": "leek.jpg",
-                                "word": "LEEK"
-                            },
-                            {
-                                "filename": "slug.jpg",
-                                "word": "SLUG"
-                            },
-                            {
-                                "filename": "dumbbell.jpg",
-                                "word": "DUMBBELL"
-                            },
-                            {
-                                "filename": "salad.jpg",
-                                "word": "SALAD"
-                            },
-                            {
-                                "filename": "jellyfish.jpg",
-                                "word": "JELLYFISH"
-                            },
-                            {
-                                "filename": "toothpick.jpg",
-                                "word": "TOOTHPICK"
-                            },
-                            {
-                                "filename": "paper_towel.jpg",
-                                "word": "PAPER TOWEL"
-                            },
-                            {
-                                "filename": "tractor.jpg",
-                                "word": "TRACTOR"
-                            },
-                            {
-                                "filename": "stirrup.jpg",
-                                "word": "STIRRUP"
-                            },
-                            {
-                                "filename": "football.jpg",
-                                "word": "FOOTBALL"
-                            },
-                            {
-                                "filename": "skin.jpg",
-                                "word": "SKIN"
-                            },
-                            {
-                                "filename": "gazelle.jpg",
-                                "word": "GAZELLE"
-                            },
-                            {
-                                "filename": "pearl.jpg",
-                                "word": "PEARL"
-                            },
-                            {
-                                "filename": "wick.jpg",
-                                "word": "WICK"
-                            },
-                            {
-                                "filename": "hanger.jpg",
-                                "word": "HANGER"
-                            },
-                            {
-                                "filename": "diaper.jpg",
-                                "word": "DIAPER"
-                            },
-                            {
-                                "filename": "crab.jpg",
-                                "word": "CRAB"
-                            },
-                            {
-                                "filename": "keyhole.jpg",
-                                "word": "KEYHOLE"
-                            },
-                            {
-                                "filename": "quad.jpg",
-                                "word": "QUAD"
-                            },
-                            {
-                                "filename": "apron.jpg",
-                                "word": "APRON"
-                            },
-                            {
-                                "filename": "clock.jpg",
-                                "word": "CLOCK"
-                            },
-                            {
-                                "filename": "banana_split.jpg",
-                                "word": "BANANA SPLIT"
-                            },
-                            {
-                                "filename": "router.jpg",
-                                "word": "ROUTER"
-                            },
-                            {
-                                "filename": "maple_syrup.jpg",
-                                "word": "MAPLE SYRUP"
-                            },
-                            {
-                                "filename": "windshield.jpg",
-                                "word": "WINDSHIELD"
-                            },
-                            {
-                                "filename": "playpen.jpg",
-                                "word": "PLAYPEN"
-                            },
-                            {
-                                "filename": "odometer.jpg",
-                                "word": "ODOMETER"
-                            },
-                            {
-                                "filename": "cash_register.jpg",
-                                "word": "CASH REGISTER"
-                            },
-                            {
-                                "filename": "sidecar.jpg",
-                                "word": "SIDECAR"
-                            }
-                        ]
-                    },
-                    {
-                        "condition": "congruent_resources",
-                        "setNumber": "studyset2",
-                        "images": [
-                            {
-                                "filename": "contact_lens.jpg",
-                                "word": "CONTACT LENS"
-                            },
-                            {
-                                "filename": "hedge.jpg",
-                                "word": "HEDGE"
-                            },
-                            {
-                                "filename": "computer.jpg",
-                                "word": "COMPUTER"
-                            },
-                            {
-                                "filename": "pencil.jpg",
-                                "word": "PENCIL"
-                            },
-                            {
-                                "filename": "macadamia.jpg",
-                                "word": "MACADAMIA"
-                            },
-                            {
-                                "filename": "wire_cutters.jpg",
-                                "word": "WIRE CUTTERS"
-                            },
-                            {
-                                "filename": "binder.jpg",
-                                "word": "BINDER"
-                            },
-                            {
-                                "filename": "bank.jpg",
-                                "word": "BANK"
-                            },
-                            {
-                                "filename": "tie.jpg",
-                                "word": "TIE"
-                            },
-                            {
-                                "filename": "pastry.jpg",
-                                "word": "PASTRY"
-                            },
-                            {
-                                "filename": "monkey.jpg",
-                                "word": "MONKEY"
-                            },
-                            {
-                                "filename": "visor.jpg",
-                                "word": "VISOR"
-                            },
-                            {
-                                "filename": "cape.jpg",
-                                "word": "CAPE"
-                            },
-                            {
-                                "filename": "log.jpg",
-                                "word": "LOG"
-                            },
-                            {
-                                "filename": "sunglasses.jpg",
-                                "word": "SUNGLASSES"
-                            },
-                            {
-                                "filename": "necklace.jpg",
-                                "word": "NECKLACE"
-                            },
-                            {
-                                "filename": "knife.jpg",
-                                "word": "KNIFE"
-                            },
-                            {
-                                "filename": "pepper1.jpg",
-                                "word": "PEPPER"
-                            },
-                            {
-                                "filename": "hearse.jpg",
-                                "word": "HEARSE"
-                            },
-                            {
-                                "filename": "woman.jpg",
-                                "word": "WOMAN"
-                            },
-                            {
-                                "filename": "mullet.jpg",
-                                "word": "MULLET"
-                            },
-                            {
-                                "filename": "hairbrush.jpg",
-                                "word": "HAIRBRUSH"
-                            },
-                            {
-                                "filename": "sushi.jpg",
-                                "word": "SUSHI"
-                            },
-                            {
-                                "filename": "guardrail.jpg",
-                                "word": "GUARDRAIL"
-                            },
-                            {
-                                "filename": "duster.jpg",
-                                "word": "DUSTER"
-                            },
-                            {
-                                "filename": "flamethrower.jpg",
-                                "word": "FLAMETHROWER"
-                            },
-                            {
-                                "filename": "shovel.jpg",
-                                "word": "SHOVEL"
-                            },
-                            {
-                                "filename": "pitcher.jpg",
-                                "word": "PITCHER"
-                            },
-                            {
-                                "filename": "ratchet.jpg",
-                                "word": "RATCHET"
-                            },
-                            {
-                                "filename": "walker1.jpg",
-                                "word": "WALKER"
-                            },
-                            {
-                                "filename": "razor_blade.jpg",
-                                "word": "RAZOR BLADE"
-                            },
-                            {
-                                "filename": "dresser.jpg",
-                                "word": "DRESSER"
-                            },
-                            {
-                                "filename": "skateboard.jpg",
-                                "word": "SKATEBOARD"
-                            },
-                            {
-                                "filename": "bug.jpg",
-                                "word": "BUG"
-                            },
-                            {
-                                "filename": "bumper.jpg",
-                                "word": "BUMPER"
-                            },
-                            {
-                                "filename": "exerciser.jpg",
-                                "word": "EXERCISER"
-                            },
-                            {
-                                "filename": "police_car.jpg",
-                                "word": "POLICE CAR"
-                            },
-                            {
-                                "filename": "thread.jpg",
-                                "word": "THREAD"
-                            },
-                            {
-                                "filename": "revolver.jpg",
-                                "word": "REVOLVER"
-                            },
-                            {
-                                "filename": "seal.jpg",
-                                "word": "SEAL"
-                            },
-                            {
-                                "filename": "kazoo.jpg",
-                                "word": "KAZOO"
-                            },
-                            {
-                                "filename": "wheelchair.jpg",
-                                "word": "WHEELCHAIR"
-                            },
-                            {
-                                "filename": "saucer.jpg",
-                                "word": "SAUCER"
-                            },
-                            {
-                                "filename": "plum.jpg",
-                                "word": "PLUM"
-                            },
-                            {
-                                "filename": "eel.jpg",
-                                "word": "EEL"
-                            },
-                            {
-                                "filename": "crane.jpg",
-                                "word": "CRANE"
-                            },
-                            {
-                                "filename": "tuxedo.jpg",
-                                "word": "TUXEDO"
-                            },
-                            {
-                                "filename": "lemon.jpg",
-                                "word": "LEMON"
-                            },
-                            {
-                                "filename": "dreidel.jpg",
-                                "word": "DREIDEL"
-                            },
-                            {
-                                "filename": "dish.jpg",
-                                "word": "DISH"
-                            },
-                            {
-                                "filename": "yoke.jpg",
-                                "word": "YOKE"
-                            },
-                            {
-                                "filename": "duct.jpg",
-                                "word": "DUCT"
-                            },
-                            {
-                                "filename": "highlighter.jpg",
-                                "word": "HIGHLIGHTER"
-                            },
-                            {
-                                "filename": "camera_lens.jpg",
-                                "word": "CAMERA LENS"
-                            }
-                        ]
-                    }
-                ]
+      {
+        "uuid": "e47b1d10-8744-4e3d-99e1-1f6ed0889637",
+        "title": "Main Task",
+        "htmlFilePath": "index.html",
+        "reloadable": true,
+        "active": true,
+        "comments": "",
+        "jsonData": {
+          "imageSets": [
+            {
+              "condition": "congruent_resources",
+              "setNumber": "studyset1",
+              "images": [
+                {"filename": "scoreboard.jpg", "word": "SCOREBOARD"},
+                {"filename": "smoothie.jpg", "word": "SMOOTHIE"},
+                {"filename": "shell2.jpg", "word": "SHELL"},
+                {"filename": "baseball.jpg", "word": "BASEBALL"},
+                {"filename": "sundae.jpg", "word": "SUNDAE"},
+                {"filename": "pulley.jpg", "word": "PULLEY"},
+                {"filename": "outfit.jpg", "word": "OUTFIT"},
+                {"filename": "tarp.jpg", "word": "TARP"},
+                {"filename": "car.jpg", "word": "CAR"},
+                {"filename": "oilcan.jpg", "word": "OILCAN"},
+                {"filename": "wall.jpg", "word": "WALL"},
+                {"filename": "gift.jpg", "word": "GIFT"},
+                {"filename": "ice_cream.jpg", "word": "ICE CREAM"},
+                {"filename": "porcupine.jpg", "word": "PORCUPINE"},
+                {"filename": "limousine.jpg", "word": "LIMOUSINE"},
+                {"filename": "machine_gun.jpg", "word": "MACHINE GUN"},
+                {"filename": "powder.jpg", "word": "POWDER"},
+                {"filename": "checkbook.jpg", "word": "CHECKBOOK"},
+                {"filename": "root.jpg", "word": "ROOT"},
+                {"filename": "pill.jpg", "word": "PILL"},
+                {"filename": "latte.jpg", "word": "LATTE"},
+                {"filename": "cane.jpg", "word": "CANE"},
+                {"filename": "plaster_cast.jpg", "word": "PLASTER CAST"},
+                {"filename": "chipmunk.jpg", "word": "CHIPMUNK"},
+                {"filename": "swab.jpg", "word": "SWAB"},
+                {"filename": "leek.jpg", "word": "LEEK"},
+                {"filename": "slug.jpg", "word": "SLUG"},
+                {"filename": "dumbbell.jpg", "word": "DUMBBELL"},
+                {"filename": "salad.jpg", "word": "SALAD"},
+                {"filename": "jellyfish.jpg", "word": "JELLYFISH"},
+                {"filename": "toothpick.jpg", "word": "TOOTHPICK"},
+                {"filename": "paper_towel.jpg", "word": "PAPER TOWEL"},
+                {"filename": "tractor.jpg", "word": "TRACTOR"},
+                {"filename": "stirrup.jpg", "word": "STIRRUP"},
+                {"filename": "football.jpg", "word": "FOOTBALL"},
+                {"filename": "skin.jpg", "word": "SKIN"},
+                {"filename": "gazelle.jpg", "word": "GAZELLE"},
+                {"filename": "pearl.jpg", "word": "PEARL"},
+                {"filename": "wick.jpg", "word": "WICK"},
+                {"filename": "hanger.jpg", "word": "HANGER"},
+                {"filename": "diaper.jpg", "word": "DIAPER"},
+                {"filename": "crab.jpg", "word": "CRAB"},
+                {"filename": "keyhole.jpg", "word": "KEYHOLE"},
+                {"filename": "quad.jpg", "word": "QUAD"},
+                {"filename": "apron.jpg", "word": "APRON"},
+                {"filename": "clock.jpg", "word": "CLOCK"},
+                {"filename": "banana_split.jpg", "word": "BANANA SPLIT"},
+                {"filename": "router.jpg", "word": "ROUTER"},
+                {"filename": "maple_syrup.jpg", "word": "MAPLE SYRUP"},
+                {"filename": "windshield.jpg", "word": "WINDSHIELD"},
+                {"filename": "playpen.jpg", "word": "PLAYPEN"},
+                {"filename": "odometer.jpg", "word": "ODOMETER"},
+                {"filename": "cash_register.jpg", "word": "CASH REGISTER"},
+                {"filename": "sidecar.jpg", "word": "SIDECAR"}
+              ]
+            },
+            {
+              "condition": "congruent_resources",
+              "setNumber": "studyset2",
+              "images": [
+                {"filename": "contact_lens.jpg", "word": "CONTACT LENS"},
+                {"filename": "hedge.jpg", "word": "HEDGE"},
+                {"filename": "computer.jpg", "word": "COMPUTER"},
+                {"filename": "pencil.jpg", "word": "PENCIL"},
+                {"filename": "macadamia.jpg", "word": "MACADAMIA"},
+                {"filename": "wire_cutters.jpg", "word": "WIRE CUTTERS"},
+                {"filename": "binder.jpg", "word": "BINDER"},
+                {"filename": "bank.jpg", "word": "BANK"},
+                {"filename": "tie.jpg", "word": "TIE"},
+                {"filename": "pastry.jpg", "word": "PASTRY"},
+                {"filename": "monkey.jpg", "word": "MONKEY"},
+                {"filename": "visor.jpg", "word": "VISOR"},
+                {"filename": "cape.jpg", "word": "CAPE"},
+                {"filename": "log.jpg", "word": "LOG"},
+                {"filename": "sunglasses.jpg", "word": "SUNGLASSES"},
+                {"filename": "necklace.jpg", "word": "NECKLACE"},
+                {"filename": "knife.jpg", "word": "KNIFE"},
+                {"filename": "pepper1.jpg", "word": "PEPPER"},
+                {"filename": "hearse.jpg", "word": "HEARSE"},
+                {"filename": "woman.jpg", "word": "WOMAN"},
+                {"filename": "mullet.jpg", "word": "MULLET"},
+                {"filename": "hairbrush.jpg", "word": "HAIRBRUSH"},
+                {"filename": "sushi.jpg", "word": "SUSHI"},
+                {"filename": "guardrail.jpg", "word": "GUARDRAIL"},
+                {"filename": "duster.jpg", "word": "DUSTER"},
+                {"filename": "flamethrower.jpg", "word": "FLAMETHROWER"},
+                {"filename": "shovel.jpg", "word": "SHOVEL"},
+                {"filename": "pitcher.jpg", "word": "PITCHER"},
+                {"filename": "ratchet.jpg", "word": "RATCHET"},
+                {"filename": "walker1.jpg", "word": "WALKER"},
+                {"filename": "razor_blade.jpg", "word": "RAZOR BLADE"},
+                {"filename": "dresser.jpg", "word": "DRESSER"},
+                {"filename": "skateboard.jpg", "word": "SKATEBOARD"},
+                {"filename": "bug.jpg", "word": "BUG"},
+                {"filename": "bumper.jpg", "word": "BUMPER"},
+                {"filename": "exerciser.jpg", "word": "EXERCISER"},
+                {"filename": "police_car.jpg", "word": "POLICE CAR"},
+                {"filename": "thread.jpg", "word": "THREAD"},
+                {"filename": "revolver.jpg", "word": "REVOLVER"},
+                {"filename": "seal.jpg", "word": "SEAL"},
+                {"filename": "kazoo.jpg", "word": "KAZOO"},
+                {"filename": "wheelchair.jpg", "word": "WHEELCHAIR"},
+                {"filename": "saucer.jpg", "word": "SAUCER"},
+                {"filename": "plum.jpg", "word": "PLUM"},
+                {"filename": "eel.jpg", "word": "EEL"},
+                {"filename": "crane.jpg", "word": "CRANE"},
+                {"filename": "tuxedo.jpg", "word": "TUXEDO"},
+                {"filename": "lemon.jpg", "word": "LEMON"},
+                {"filename": "dreidel.jpg", "word": "DREIDEL"},
+                {"filename": "dish.jpg", "word": "DISH"},
+                {"filename": "yoke.jpg", "word": "YOKE"},
+                {"filename": "duct.jpg", "word": "DUCT"},
+                {"filename": "highlighter.jpg", "word": "HIGHLIGHTER"},
+                {"filename": "camera_lens.jpg", "word": "CAMERA LENS"}
+              ]
             }
+          ]
         }
+      }
     ],
     "batchList": [
-        {
-            "uuid": "d2c6bde3-0bc6-438b-9e2f-0dfb3a2fa3b2",
-            "title": "Default Batch",
-            "active": true,
-            "maxActiveMembers": 100,
-            "maxTotalMembers": 100,
-            "maxTotalWorkers": 100,
-            "allowedWorkerTypes": [
-                "PersonalSingle"
-            ],
-            "comments": null,
-            "jsonData": null
-        }
+      {
+        "uuid": "d2c6bde3-0bc6-438b-9e2f-0dfb3a2fa3b2",
+        "title": "Default Batch",
+        "active": true,
+        "maxActiveMembers": 100,
+        "maxTotalMembers": 100,
+        "maxTotalWorkers": 100,
+        "allowedWorkerTypes": [
+          "PersonalSingle"
+        ],
+        "comments": null,
+        "jsonData": null
+      }
     ]
+  }
 }
