@@ -12,6 +12,24 @@
     <script src="main.js" defer></script>
 </head>
 <body>
+    <script>
+    function fetchStudyData() {
+      return fetch('study.json')
+        .then(response => {
+          if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+          }
+          return response.json();
+        })
+        .then(data => {
+          console.log('Fetched study data:', data);
+        })
+        .catch(error => {
+          console.error('Error fetching study data:', error);
+        });
+    }
+    fetchStudyData();
+   </script>
     <div id="container">
         <!-- Instructions Section -->
         <div id="instructions" class="section instructions-content"></div>
