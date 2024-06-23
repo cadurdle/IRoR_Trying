@@ -1,3 +1,11 @@
+import { core, data, sound, util, visual } from './lib/psychojs-2021.2.3.js';
+const { PsychoJS } = core;
+const { TrialHandler } = data;
+const { Scheduler } = util;
+//some handy aliases as in the psychopy scripts;
+const { abs, sin, cos, PI: pi, sqrt } = Math;
+const { round } = util;
+
 psychoJS.experimentLogger.setLevel(core.Logger.ServerLevel.DEBUG);
 const experiment = {
     blocks: 2,
