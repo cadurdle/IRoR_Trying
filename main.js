@@ -141,7 +141,7 @@ window.onload = function () {
 };
 
 function fetchStudyData() {
-    return fetch('/study.json')
+    return fetch('study.json')
         .then(response => {
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
